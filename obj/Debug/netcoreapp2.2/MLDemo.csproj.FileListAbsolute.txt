@@ -1,0 +1,11 @@
+C:\Users\john.ferguson\source\repos\MLDemo\bin\Debug\netcoreapp2.2\MLDemo.deps.json
+C:\Users\john.ferguson\source\repos\MLDemo\bin\Debug\netcoreapp2.2\MLDemo.runtimeconfig.json
+C:\Users\john.ferguson\source\repos\MLDemo\bin\Debug\netcoreapp2.2\MLDemo.runtimeconfig.dev.json
+C:\Users\john.ferguson\source\repos\MLDemo\bin\Debug\netcoreapp2.2\MLDemo.dll
+C:\Users\john.ferguson\source\repos\MLDemo\obj\Debug\netcoreapp2.2\MLDemo.csprojAssemblyReference.cache
+C:\Users\john.ferguson\source\repos\MLDemo\obj\Debug\netcoreapp2.2\MLDemo.csproj.CoreCompileInputs.cache
+C:\Users\john.ferguson\source\repos\MLDemo\obj\Debug\netcoreapp2.2\MLDemo.AssemblyInfoInputs.cache
+C:\Users\john.ferguson\source\repos\MLDemo\obj\Debug\netcoreapp2.2\MLDemo.AssemblyInfo.cs
+C:\Users\john.ferguson\source\repos\MLDemo\bin\Debug\netcoreapp2.2\MLDemo.pdb
+C:\Users\john.ferguson\source\repos\MLDemo\obj\Debug\netcoreapp2.2\MLDemo.dll
+C:\Users\john.ferguson\source\repos\MLDemo\obj\Debug\netcoreapp2.2\MLDemo.pdb
